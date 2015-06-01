@@ -1,2 +1,1 @@
-# tango-w-django
-Tango w/ Django 1.7
+This is just a test.
