@@ -8,3 +8,7 @@ def index(request):
 
 def about(request):
     return HttpResponse("Rango says here is the about page.")
+
+def contact(request):
+    return HttpResponse("This is the contact page.\
+    <br/><a href='../../'>Rango</a>")
